@@ -8,6 +8,6 @@ This repository contains the data of the paper: Span Detection for Vietnamese As
 
 ## Data Label
 
-## Ciation
+## Citation
 
 ## Contact
