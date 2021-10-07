@@ -8,10 +8,15 @@ UIT-ViSD4SA is a benchmark Vietnamese smartphone feedback dataset for ABSA and s
 ## Read File
 ``
 !pip install jsonlines
+
 import jsonlines
+
 data = []
+
 with jsonlines.open('train.jsonl') as f:
+
     for line in f.iter():
+    
         data.append((line['text'], {'labels': line['labels']}))
 ``
 ## Citation
