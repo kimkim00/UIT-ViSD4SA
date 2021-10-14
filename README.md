@@ -22,8 +22,7 @@ with jsonlines.open('train.jsonl') as f:
 ## Citation
 Please cite the following paper if you found it useful in your work.
 
-```
 Kim Thi-Thanh Nguyen, Sieu Khai Huynh, Luong Luc Phan, Phuc Huynh Pham, Duc-Vu Nguyen, Kiet Van Nguyen. Span Detection for Aspect-Based Sentiment Analysis in Vietnamese. The 35th Pacific Asia Conference on Language, Information and Computation (PACLIC 2021).
-```
+
 
 ## Contact
