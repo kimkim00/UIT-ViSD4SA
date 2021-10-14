@@ -22,12 +22,12 @@ with jsonlines.open('train.jsonl') as f:
 ## Citation
 Please cite the following paper if you found it useful in your work.
 
-``
+```
 @misc{nguyen2021UITViSD4SAPACLIC35,
       title={Span Detection for Aspect-Based Sentiment Analysis in Vietnamese}, 
       author={Kim Thi-Thanh Nguyen, Sieu Khai Huynh, Phuc Huynh Pham, Luong Luc Phan, Duc-Vu Nguyen, Kiet Van Nguyen},
       year={2021}
 }
-``
+```
 
 ## Contact
