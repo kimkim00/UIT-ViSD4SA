@@ -23,13 +23,21 @@ with jsonlines.open('train.jsonl') as f:
 Please cite the following paper if you found it useful in your work.
 
 ````
-@misc{nguyen2021span,
-      title={Span Detection for Aspect-Based Sentiment Analysis in Vietnamese}, 
-      author={Kim Thi-Thanh Nguyen and Sieu Khai Huynh and Luong Luc Phan and Phuc Huynh Pham and Duc-Vu Nguyen and Kiet Van Nguyen},
-      year={2021},
-      eprint={2110.07833},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{thanh-etal-2021-span,
+    title = "Span Detection for {V}ietnamese Aspect-Based Sentiment Analysis",
+    author = "Thanh, Kim Nguyen Thi  and
+      Khai, Sieu Huynh  and
+      Huynh, Phuc Pham  and
+      Luc, Luong Phan  and
+      Nguyen, Duc-Vu  and
+      Van, Kiet Nguyen",
+    booktitle = "Proceedings of the 35th Pacific Asia Conference on Language, Information and Computation",
+    month = "11",
+    year = "2021",
+    address = "Shanghai, China",
+    publisher = "Association for Computational Lingustics",
+    url = "https://aclanthology.org/2021.paclic-1.34",
+    pages = "322--332",
 }
 ````
 
