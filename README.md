@@ -24,7 +24,7 @@ Please cite the following paper if you found it useful in your work.
 
 ````
 @inproceedings{thanh-etal-2021-span,
-    title = "Span Detection for {V}ietnamese Aspect-Based Sentiment Analysis",
+    title = "Span Detection for Aspect-Based Sentiment Analysis in Vietnamese",
     author = "Thanh, Kim Nguyen Thi  and
       Khai, Sieu Huynh  and
       Huynh, Phuc Pham  and
@@ -37,7 +37,7 @@ Please cite the following paper if you found it useful in your work.
     address = "Shanghai, China",
     publisher = "Association for Computational Lingustics",
     url = "https://aclanthology.org/2021.paclic-1.34",
-    pages = "322--332",
+    pages = "318--328",
 }
 ````
 
